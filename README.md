@@ -4,5 +4,10 @@
 * Projetos acadêmicos
 * Portfólio
 
+Projetos Acadêmicos:
+Atividades e exercícios utilizando python.
+
+Projetos Pessoais:
+Site básico utilizando HTML.
   
  acesso ao meu Linkedin: www.linkedin.com/in/pedro-oliveira-rocha-b073b6352    
